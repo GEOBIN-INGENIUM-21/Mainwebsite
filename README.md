@@ -1,5 +1,5 @@
 ![ #Get Rid of your Scrap](https://i.ibb.co/54B2K0p/logo-geo.jpg)
-#GEOBIN
+# GEOBIN
 <center> Get Rid of your Scrap </center>
 
 
@@ -23,4 +23,6 @@ In MainWebsite Repository
 ### Links
 
    > [Git repo](https://github.com/GEOBIN-INGENIUM-21/Mainwebsite)
+
+
    > [Git page](https://geobin-ingenium-21.github.io/Mainwebsite/)
