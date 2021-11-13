@@ -101,6 +101,7 @@ header .fa-bars{
     background-size: cover;
     background-position: center;
     padding-top: 100px;
+    padding-bottom: 30px;
 }
 /* form */
 #email , #password{
@@ -283,6 +284,7 @@ header .fa-bars{
 .terms
 {
     font-family: "Maiandra GD";
+    
 }
 .conta .h{
     padding: 20px;
@@ -290,7 +292,7 @@ header .fa-bars{
     font-size: 30px;
 }
 .conta p{
-    padding: 20px;
+    padding: 50px;
     color: rgb(10, 24, 21);
     font-size: 15px;
     text-align: justify;

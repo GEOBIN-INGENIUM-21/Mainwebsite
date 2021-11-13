@@ -46,7 +46,7 @@ html{
     top:0; left:0;
     height:100%;
     width: 100%;
-    background: rgb(250, 244, 192);
+    background: green;
     z-index: -1;
     transition: all 0.5s cubic-bezier(.37,1.14,.26,1.24);
 }
@@ -83,7 +83,9 @@ html{
     color:var(--green);
     font-size: 2rem;
 }
-
+span{
+    color: rgb(255, 136, 136);
+}
 
 header{
     display: flex;
@@ -192,8 +194,9 @@ header .fa-bars{
 
 .about .row .content p{
     font-size: 1.5rem;
-    color:#666;
+    color:rgb(37, 37, 37);
     padding:1rem 0;
+    text-align: justify;
 }
 .statics{
     background-image: linear-gradient(rgba(70, 70, 70, 0.712),rgba(36, 43, 36, 0.712)),url(http://wallup.net/wp-content/uploads/2016/02/18/264159-Earth-nature.jpg);
