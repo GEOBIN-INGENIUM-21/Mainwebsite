@@ -1,4 +1,4 @@
-![ #Get Rid of your Scrap](https://ibb.co/DW5LrJc)
+![ #Get Rid of your Scrap](https://i.ibb.co/54B2K0p/logo-geo.jpg)
   <center> Help Each Other </center>
 
 
