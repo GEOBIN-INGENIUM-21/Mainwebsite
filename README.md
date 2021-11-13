@@ -1,5 +1,6 @@
 ![ #Get Rid of your Scrap](https://i.ibb.co/54B2K0p/logo-geo.jpg)
-  <center> Help Each Other </center>
+#GEOBIN
+<center> Get Rid of your Scrap </center>
 
 
  # ⭐ Inspiration
@@ -15,6 +16,8 @@ With growing population, the country faces massive waste management and sustaina
 
 In MainWebsite Repository 
    >index.html --> Home page (and all assests related to it are CSS folder,Js folder, Images folder)
+
+
    >Price & Auth Repos --> Sub pages of the Home page 
    
 ### Links
