@@ -4,26 +4,21 @@
 
  # ⭐ Inspiration
 
-> -A **post-COVID-19** world will not be the same one we knew before, but it can be a better one if people help each other. So we thought to create a website for interaction between people and they can request for help also.
+Waste management challenges faced by India are daunting and are causing tremendous damage to public health and environment. 
+
+With growing population, the country faces massive waste management and sustainability challenges due to inefficient waste disposal infrastructure and an increasing rate of dry waste generation every year.
+![image](https://user-images.githubusercontent.com/75233688/141647847-15865c34-a7de-435b-9dd1-60fcb306d85b.png)
+
 ## 💡 Idea
 
->This website will provide a platform to users for asking help or requesting any work and other users can see it and contact them to provide help
-## 💻Tools and Resources
-   > languages used
- <img  alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">   
-<img  alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img  alt="Bootstrap" width=25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img  alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img  alt="JavaScript" width="25px" src="https://img.stackshare.io/service/5883/preview.png">
-
->Resources
-     - [ Canva](canva.com)
-      - [Google Fonts](https://fonts.google.com/)
+>GEOBIN aim is to provide convenience to the customer by picking up their scrap burden from the doorstep.
+![image](https://user-images.githubusercontent.com/75233688/141647870-e39183c5-aa78-484e-b0a9-8c87505858a5.png)
 
 
-> Tools
-- ADOBE ILLUSTRATOR
-- ADOBE PREMIERE PRO
+
+
+
+
 
 ### Links
 
